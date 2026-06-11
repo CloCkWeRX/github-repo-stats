@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dusk196/github-repo-contribs.git"
+    "url": "git+https://github.com/codebydusk/github-repo-contribs.git"
   },
   "keywords": [
     "github",
@@ -32,7 +32,7 @@
   "author": "Sayantan Roy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dusk196/github-repo-contribs/issues"
+    "url": "https://github.com/codebydusk/github-repo-contribs/issues"
   },
-  "homepage": "https://github.com/dusk196/github-repo-contribs#readme"
+  "homepage": "https://github.com/codebydusk/github-repo-contribs#readme"
 }

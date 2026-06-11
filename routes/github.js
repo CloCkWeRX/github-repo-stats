@@ -4,7 +4,7 @@ var router = express.Router();
 
 /**
   * GET total Github Contributions
-  * /github/contrib/{dusk196}/{github-total-commit}?style={for-the-badge}&color={green}
+  * /github/contrib/{codebydusk}/{github-total-commit}?style={for-the-badge}&color={green}
  **/
 router.get('/github/contrib/:user/:repo', function (req, res, next) {
 
@@ -38,7 +38,7 @@ router.get('/github/contrib/:user/:repo', function (req, res, next) {
 
 /**
   * GET total Github Commits
-  * /github/commit/{dusk196}/{github-total-commit}?style={for-the-badge}&color={green}
+  * /github/commit/{codebydusk}/{github-total-commit}?style={for-the-badge}&color={green}
  **/
 router.get('/github/commit/:user/:repo', function (req, res, next) {
 
