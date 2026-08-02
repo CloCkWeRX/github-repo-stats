@@ -29,7 +29,7 @@ Well, it's pretty straight forward. You can use the following code in your Githu
 ![Github Badge](https://github-stats-badge.vercel.app/github/{type}/{username}/{repository_name})
 ```
 
-You can also use the following HTML code should that be your choice for updaing the Github Markdown file.
+You can also use the following HTML code should that be your choice for updating the Github Markdown file.
 ```html
 <img src="https://github-stats-badge.vercel.app/github/{type}/{username}/{repository_name}" />
 ```
